@@ -17,8 +17,8 @@
 ## 목차
 
 - [프로젝트 소개](#프로젝트-소개)   
-  - [Key Feature](Key Feature)
-- [Gitflow 규칙](#Gitflow 규칙)
+  - [Key Feature](#Key-Feature)
+- [Gitflow 규칙](#Gitflow-규칙)
 - [프로젝트 명세](#프로젝트-명세)
   - [배포 환경](#배포-환경)
   - [개발 환경](#개발-환경)
